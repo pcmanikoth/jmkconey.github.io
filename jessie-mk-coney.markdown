@@ -3,5 +3,6 @@ title: Jessie M.K. Coney
 date: 2018-09-27 18:51:00 Z
 ---
 
-> Live, Laugh, Love
-I am awesome.
+# Jessie Coney
+
+Hi, iʻm Jessie! I am an Eastern Washington University (EWU) graduate and have a BA in Visual Communication Design, certificate in User Experience (UX) Design, as well as an art minor. I have worked for multiple companies in Hawaii as well as Washington in some type of design aspect doing a variety of things from photography to social media marketing.I believe traveling the world is pertinent to fully understand and design for the world.
