@@ -1,12 +1,11 @@
 ---
-title: Project A
+title: Music Poster
 date: 2018-10-04 18:35:00 Z
 Teaser Image: "/uploads/12796_SymphonicBand.pdf"
 Launch Date: 0006-06-01 00:00:00 Z
 Project Info:
   Client: Eastern Washington University - Music Department
-  Date: 0006-06-01 00:00:00 Z
-  Credits: hjh
+  Date: 2018-06-01 00:00:00 Z
 ---
 
-jfjsabfjsfb
+Simple poster for the Eastern Washington University (EWU) symphonic band concert following the EWU guidelines. 
