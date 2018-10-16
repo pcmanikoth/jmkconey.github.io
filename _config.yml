@@ -14,6 +14,7 @@ collections:
 
 defaults:
     -scope:
-        type: "portfolio"
+        path: ``
+        type: portfolio
     values:
         Teaser Image:
