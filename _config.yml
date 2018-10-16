@@ -13,8 +13,8 @@ collections:
     output: true
 
 defaults:
-    -scope:
-        path: ʻʻ
-        type: portfolio
-    values:
-        Teaser Image:
+- scope:
+    path: ''
+    type: portfolio
+  values:
+    Teaser Image:
