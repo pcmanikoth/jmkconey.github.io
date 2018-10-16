@@ -13,7 +13,7 @@ collections:
     output: true
 
 defaults:
-    - scope:
+    -scope:
         type: "portfolio"
     values:
         Teaser Image:
